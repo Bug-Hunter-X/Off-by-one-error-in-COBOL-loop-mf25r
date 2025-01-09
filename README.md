@@ -1,0 +1,1 @@
+This repository contains an example of a common off-by-one error in COBOL loops and its solution. The `bug.cob` file demonstrates the erroneous code, while `bugSolution.cob` provides the corrected version. The error arises from an imprecise loop termination condition that leads to one fewer iteration than intended.
